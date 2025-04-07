@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel – Junior QA Tester
+# 👋 Hi, I'm Stefan – Junior QA Tester
 
 I'm 16 years old, passionate about technology and user experience. I'm currently learning manual QA testing and building my portfolio step by step. I'm motivated, detail-oriented, and always ready to find the bugs you missed!
 
